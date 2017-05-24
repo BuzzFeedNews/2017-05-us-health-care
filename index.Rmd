@@ -1,4 +1,4 @@
-# These 4 Shocking Charts Show What's Wrong With American Health Care
+# Why Americans Are So Damn Unhealthy, In 4 Shocking Charts
 
 ```{r knitr_options, include=FALSE}
 library(knitr)
