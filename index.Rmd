@@ -5,7 +5,7 @@ library(knitr)
 opts_chunk$set(out.width="725px", dpi=300)
 ```
 
-[R](https://www.r-project.org/) code to reproduce the charts in [this May 2x, 2017 BuzzFeed News article](https://www.buzzfeed.com/peteraldhous/american-health-care) on the problems with health care and health outcomes in the US. Supporting files are in [this GitHub repository](https://github.com/BuzzFeedNews/2017-05-us-health-care). To make the animated GIFs, you will need to install [ImageMagick](https://www.imagemagick.org/script/index.php).
+[R](https://www.r-project.org/) code to reproduce the charts in [this May 24, 2017 BuzzFeed News article](https://www.buzzfeed.com/peteraldhous/american-health-care) on the problems with health care and health outcomes in the US. Supporting files are in [this GitHub repository](https://github.com/BuzzFeedNews/2017-05-us-health-care). To make the animated GIFs, you will need to install [ImageMagick](https://www.imagemagick.org/script/index.php).
 
 ## Americans spend big on health care, yet die young
 

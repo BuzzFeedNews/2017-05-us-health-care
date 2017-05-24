@@ -1,6 +1,6 @@
 # These 4 Shocking Charts Show What's Wrong With American Health Care
 
-[R](https://www.r-project.org/) code to reproduce the charts in the May 2x, 2017 [BuzzFeed News article](https://www.buzzfeed.com/peteraldhous/american-health-care) on the problems with health care and health outcomes in the US.
+[R](https://www.r-project.org/) code to reproduce the charts in the May 24, 2017 [BuzzFeed News article](https://www.buzzfeed.com/peteraldhous/american-health-care) on the problems with health care and health outcomes in the US.
 
 ## Methodology/Code
 
