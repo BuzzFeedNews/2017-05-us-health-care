@@ -1,0 +1,25 @@
+country,intervention,type,value,key
+US,MRI scan,Diagnosis,1119,US
+UK,MRI scan,Diagnossis,788,Other
+Switzerland,MRI scan,Diagnosis,503,Other
+Spain,MRI scan,Diagnosis,85,Other
+US,Cardiac catheterization,Diagnosis,5061,US
+UK,Cardiac catheterization,Diagnosis,4046,Other
+Switzerland,Cardiac catheterization,Diagnosis,181,Other
+Spain,Cardiac catheterization,Diagnosis,2974,Other
+US,Appendix removal,Surgery,15930,US
+UK,Appendix removal,Surgery,8009,Other
+Switzerland,Appendix removal,Surgery,6040,Other
+Spain,Appendix removal,Surgery,2003,Other
+US,Coronary bypass,Surgery,78318,US
+UK,Coronary bypass,Surgery,24059,Other
+Switzerland,Coronary bypass,Surgery,34224,Other
+Spain,Coronary bypass,Surgery,14579,Other
+US,Harvoni (hepatitis C),Drug,32114,US
+UK,Harvoni (hepatitis C),Drug,22554,Other
+Switzerland,Harvoni (hepatitis C),Drug,16861,Other
+Spain,Harvoni (hepatitis C),Drug,18165,Other
+US,Humira (rheumatoid arthritis),Drug,2669,US
+UK,Humira (rheumatoid arthritis),Drug,1362,Other
+Switzerland,Humira (rheumatoid arthritis),Drug,822,Other
+Spain,Humira (rheumatoid arthritis),Drug,1253,Other
